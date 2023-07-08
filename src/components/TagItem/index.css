@@ -1,0 +1,17 @@
+.button {
+  border: 1px solid #f3aa4e;
+  border-radius: 12px;
+  outline: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.active {
+  background-color: #f3aa4e;
+}
+.not-active {
+  background-color: transparent;
+}
